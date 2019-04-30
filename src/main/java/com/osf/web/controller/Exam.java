@@ -18,7 +18,7 @@ public class Exam {
 	 * 6. FATAL : 진짜 치명적인 에러 서버급중단 등등.. 
 	 * */
 	public static void main(String[] args) {
-		String str = null;
+		String str = "홍길동";
 		//한라인에 두개 찍고 싶음 일케 
 		if(str.equals("홍길동")) {
 			log.info("이름은 홍길이 맞습니다.");

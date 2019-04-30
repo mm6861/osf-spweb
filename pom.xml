@@ -24,7 +24,7 @@
 
 
 		<!-- Spring -->
-		<spring-framework.version>3.2.4.RELEASE</spring-framework.version>
+		<spring-framework.version>3.2.5.RELEASE</spring-framework.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
@@ -127,7 +127,7 @@
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
-			<version>3.3.1</version>
+			<version>3.4.2</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/commons-dbcp/commons-dbcp -->
 		<dependency>

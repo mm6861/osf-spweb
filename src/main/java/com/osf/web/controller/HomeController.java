@@ -43,6 +43,6 @@ public class HomeController {
 		strList.add("2");
 		strList.add("3");
 		model.addAttribute("list",strList);
-		return "test";
+		return "views/test";
 	}	
 }
